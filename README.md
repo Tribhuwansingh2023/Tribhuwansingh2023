@@ -6,9 +6,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tribhuwansingh2023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ayush-Raj-Chourasia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="151" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush-Raj-Chourasia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Raj-Chourasia&theme=github-dark&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Tribhuwansingh2023&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="151" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tribhuwansingh2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tribhuwansingh2023&theme=github-dark&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -47,7 +47,7 @@
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/+918707701003" target="_blank">
+  <a href="https://wa.me/+919682181738" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/hs0762363" target="_blank">
@@ -70,7 +70,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Tribhuwan-singh/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Tribhuwansingh2023/count.svg?"  />
 </div>
 
 ###
