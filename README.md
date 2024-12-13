@@ -59,7 +59,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ayush-Raj-Chourasia/Ayush-Raj-Chourasia/output/snake.svg" alt="" />
+<img src="https://github.com/Tribhuwansingh2023/Tribhuwansingh2023/blob/output/snake.svg" alt="Snake Animation" />
+
 
 ###
 
