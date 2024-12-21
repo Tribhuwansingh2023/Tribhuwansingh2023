@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<img src="https://tribhuwansingh2023.github.io/Tribhuwansingh2023/snake.yml" alt="Snake Animation" />
+<img src="https://github.com/Ayush-Raj-Chourasia/Ayush-Raj-Chourasia/blob/main/.github/workflows/snake.yml" alt="Snake Animation" />
 
 
 ###
