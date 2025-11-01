@@ -1,78 +1,101 @@
-# Tribhuwan-singh
 
-<h2 align="center">Hi 👋 My name is Tribhuwan Singh</h2>
+![Banner](https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif)
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Tribhuwan Singh</h1>
 
-###
+<h1 align="center">(@Tribhuwansingh2023)👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tribhuwansingh2023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://streak-stats.demolab.com/?user=Tribhuwansingh2023&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tribhuwansingh2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tribhuwansingh2023&theme=github-dark&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <b>AI Engineer | Building Intelligent AI Agents | ML & Deep Learning Specialist</b><br>
+  <i>Crafting autonomous systems that learn, adapt, and solve real-world problems</i>
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%E2%9A%99%EF%B8%8F+Building+the+Future;Specialized+in+AI+Agents+%26+Autonomous+Systems;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Creating+Intelligence+that+Works"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
-</div>
+---
 
-###
+## 🚀 About Me
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/tribhuwan-singh-3283b6280/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+I'm **Surajit Sahoo**, an **AI Engineer** from **India** passionate about building **intelligent AI agents** and autonomous systems. My expertise spans **Machine Learning**, **Deep Learning**, and **AI agent development**. I focus on creating AI solutions that don't just process data, but actively reason, learn, and take actions to solve complex problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+### AI/ML Frameworks
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
+
+### AI Agent Tools
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zencode-4285F4?style=for-the-badge&logo=code&logoColor=white"/>
+</p>
+
+### Development & Deployment
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+---
+
+## 🔍 Let's Connect
+
+<p align="center">
+  <a href="mailto:webosingh93@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  <a href="www.linkedin.com/in/tribhuwan-singh-3283b6280">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/Tribhuwansingh2023/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <a href="https://github.com/Tribhuwansingh2023">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="webosingh93@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  <a href="https://Tribhuwansingh2023.wordpress.com/resume/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  <a href="https://www.instagram.com/tribhuwansingh2023/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://wa.me/+919682181738" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
+  <a href="https://wa.me/qr/EP5FD5HPXI3DM1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/hs0762363" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+## 📊 GitHub Stats
 
-<img src="https://github.com/Ayush-Raj-Chourasia/Ayush-Raj-Chourasia/blob/main/.github/workflows/snake.yml" alt="Snake Animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tribhuwansingh2023&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Tribhuwansingh2023&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tribhuwansingh2023&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img height="220" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
-</div>
+<p align="center">
+<i>"Building AI agents that don't just compute - they think, learn, and act with purpose."</i>
+</p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Tribhuwansingh2023/count.svg?"  />
-</div>
-
-###
-
+<p align="center">
+  ✨ Thanks for visiting! Let's collaborate on building intelligent systems together. ✨
+</p>
