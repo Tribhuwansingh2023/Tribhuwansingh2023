@@ -81,7 +81,7 @@ My focus lies in developing **ML & Deep Learning models**, **AI Agents**, and de
   <a href="https://github.com/Tribhuwansingh2023"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://Tribhuwansingh2023.wordpress.com/resume/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   <a href="https://www.instagram.com/tribhuwansingh2023/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://wa.me/qr/EP5FD5HPXI3DM1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/qr/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
