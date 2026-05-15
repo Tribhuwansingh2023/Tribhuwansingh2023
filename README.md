@@ -90,13 +90,13 @@ I'm passionate about leveraging **autonomous AI agents** and **advanced ML model
 
 <div align="center">
 
-![Tribhuwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tribhuwansingh2023&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+![Tribhuwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tribhuwansingh2023&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tribhuwansingh2023&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tribhuwansingh2023&theme=tokyonight&hide_border=true&currStreakLabel=00D9FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tribhuwansingh2023&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tribhuwansingh2023&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tribhuwansingh2023&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tribhuwansingh2023&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
